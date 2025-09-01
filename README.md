@@ -2,7 +2,7 @@
 
 This repository contains the code used in the study:
 
-**Dahlberg A., Jukarainen S., Kaartinen T. & Orre P. (2025). _Cost Minimization Analysis of Digital-First Healthcare Pathways in Primary Care._**
+**Dahlberg A., Jukarainen S., Kaartinen T. & Orre P. (2025). _Cost Minimization Analysis of Digital-First Healthcare Pathways in Primary Care._** npj Digital Medicine  8, 546 (2025). https://doi.org/10.1038/s41746-025-01937-z. https://www.nature.com/articles/s41746-025-01937-z.
 
 ## Overview
 
